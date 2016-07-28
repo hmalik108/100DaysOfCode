@@ -1,0 +1,14 @@
+@import "bootstrap-social.less";
+
+.portfolio-footer {
+    
+    background-color:#AfAfAf;
+    padding-left: 20px;
+    
+    margin: 0px auto;
+    
+}
+
+.row-footer {
+    background-color:#AfAfAf;
+}
